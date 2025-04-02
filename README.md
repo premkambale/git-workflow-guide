@@ -1,3 +1,4 @@
+![Git Guide](https://github.com/premkambale/git-workflow-guide/blob/main/git-bg.png)
 # 🚀 Git Branch Hierarchy & Workflow Guide
 
 ## 📂 Branch Hierarchy
