@@ -4,22 +4,22 @@
 ## 📂 Branch Hierarchy
 
 ```
-Project
+📂 Project Repository
 │
-├── Frontend
-│   ├── project-frontend
-│   │   ├── main
-│   │   ├── production
-│   │   ├── UserAcceptanceTesting (UAT)
-│   │   ├── dev
-│   │       ├── developer1  → VS Code
-│   │       ├── developer2 → VS Code
-│   │       ├── developer3 → VS Code
-│   │       ├── git clone -b <branch_name> <repo_url>
+├── 📁 Frontend
+│   ├── 📂 project-frontend
+│   │   ├── 🌿 main → Production-ready branch
+│   │   ├── 🌿 production → Stable release branch
+│   │   ├── 🌿 UAT (User Acceptance Testing) → Pre-deployment testing
+│   │   ├── 🌿 dev → Active development branch
+│   │       ├── 👤 developer1  → Working in VS Code
+│   │       ├── 👤 developer2 → Working in VS Code
+│   │       ├── 👤 developer3 → Working in VS Code
+│   │       ├── 🔗 git clone -b <branch_name> <repo_url>
 │
-├── Backend
+├── 📁 Backend → Backend repository
 │
-├── Devs
+├── 📁 Devs → Developer workspaces
 ```
 
 ---
