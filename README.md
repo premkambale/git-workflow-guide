@@ -8,18 +8,17 @@
 │
 ├── 📁 Frontend
 │   ├── 📂 project-frontend
-│   │   ├── 🌿 main → Production-ready branch
-│   │   ├── 🌿 production → Stable release branch
-│   │   ├── 🌿 UAT (User Acceptance Testing) → Pre-deployment testing
+│   │   ├── 🚀 main → Production-ready branch
+│   │   ├── 🏁 production → Stable release branch
+│   │   ├── 🧪 UAT (User Acceptance Testing) → Pre-deployment testing
 │   │   ├── 🌿 dev → Active development branch
-│   │       ├── 👤 developer1  → Working in VS Code
+│   │       ├── 👤 developer1 → Working in VS Code
 │   │       ├── 👤 developer2 → Working in VS Code
 │   │       ├── 👤 developer3 → Working in VS Code
 │   │       ├── 🔗 git clone -b <branch_name> <repo_url>
 │
 ├── 📁 Backend → Backend repository
 │
-├── 📁 Devs → Developer workspaces
 ```
 
 ---
